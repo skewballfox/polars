@@ -15,7 +15,7 @@ default-members = [
 ]
 
 [workspace.package]
-version = "0.50.0"
+version = "0.50.1"
 authors = ["Ritchie Vink <ritchie46@gmail.com>"]
 edition = "2024"
 homepage = "https://www.pola.rs/"
